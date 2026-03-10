@@ -6,6 +6,11 @@ body {
     justify-content: space-around;
 }
 
+.header {
+    border: 5px solid blue;
+    padding: 20px;
+}
+
 .header, .main, .footer {
     background-color: violet;
 }
